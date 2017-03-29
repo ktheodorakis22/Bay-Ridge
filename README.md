@@ -8,6 +8,7 @@ This is what my neighborhood looks like:
 
 
 
+
 Some of the statistics about my neighborhood include:
 
 
