@@ -51,5 +51,4 @@ PLUMBING has 2872 complaints.
 
 Noise has 2578 complaints.
 
-
-There is absolutely no space for parking in my neighborhood. It's actually easier to just double park and get your business done and risk a ticket instead of trying to find a spot. An image of the 311 complaints made by residents in Bay Ridge can be seen [here](https://github.com/ktheodorakis22/Bay-Ridge/blob/master/311%20Complaints%20Map.png).
+An image of the 311 complaints made by residents in Bay Ridge can be seen [here](https://github.com/ktheodorakis22/Bay-Ridge/blob/master/311%20Complaints%20Map.png).
